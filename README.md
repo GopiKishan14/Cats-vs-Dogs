@@ -25,6 +25,16 @@ Open [*Dataset-Builder.ipynb*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob
 
 Open [*model.ipynb*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob/master/Model.ipynb)
 
+#### Performance and Evaluation
+```
+Models trained on partial datset and the partial pre-processed datset
+is provided.
+```
+
+[*Saved Model*](https://github.com/GopiKishan14/Cats-vs-Dogs/tree/master/Saved_models) 
+
+[*Built Dataset*](https://github.com/GopiKishan14/Cats-vs-Dogs/tree/master/Built_Dataset)
+
 ### Predicting :-
 
 Open [*predict.ipynb*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob/master/predict.ipynb)
@@ -40,8 +50,6 @@ Open [*predict.ipynb*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob/master/
 ```
 ## About Dataset
 Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that works by asking users to identify photographs of cats and dogs. This task is difficult for computers, but studies have shown that people can accomplish it quickly and accurately. Asirra is unique because of its partnership with Petfinder.com, the world's largest site devoted to finding homes for homeless pets. They've provided Microsoft Research with over three million images of cats and dogs, manually classified by people at thousands of animal shelters across the United States. Kaggle is fortunate to offer a subset of this data for fun and research. For more information, see https://www.kaggle.com/c/dogs-vs-cats.
-
-<img src="/MNIST_data.png?raw=true" width="400">
 
 ## Contributing
 If you wish to contribute, feel free to open a PR
