@@ -31,11 +31,29 @@ Models trained on partial datset and the partial pre-processed datset
 is provided.
 ```
 
-[*Saved Model*](https://github.com/GopiKishan14/Cats-vs-Dogs/tree/master/Saved_models) 
+[*Saved Model*](https://github.com/GopiKishan14/Cats-vs-Dogs/tree/master/Saved_models)
+
 
 [*Built Dataset*](https://github.com/GopiKishan14/Cats-vs-Dogs/tree/master/Built_Dataset)
 
+#### Running Tensorboard :-
+Check versions :- 
+```
+from tensorboard import version; 
+print(version.VERSION)
+```
+```
+import tensorflow as tf; 
+print(tf.__version__)
+```
+Running log_dir in tensorboard :-
+```
+tensorboard --logdir = logs/
+```
+[*Batch_acc*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob/master/batch_acc%20.svg)
 
+
+[*Batch loss*](https://github.com/GopiKishan14/Cats-vs-Dogs/blob/master/batch_loss%20.svg)
 
 ### Predicting :-
 
