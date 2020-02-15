@@ -1,6 +1,5 @@
 # Cats-vs-Dogs
-Kaggle dataset classifier
-
+Follow along the jupyter notebook to learn basic programming in tensorflow and tesorboard.
 ## Downloading Dataset
 https://www.microsoft.com/en-ca/download/details.aspx?id=54765
 ## About Model
